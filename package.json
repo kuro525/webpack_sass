@@ -1,4 +1,8 @@
 {
+  "scripts": {
+    "serve": "webpack-dev-server",
+    "build": "webpack"
+  },
   "dependencies": {
     "css-loader": "^3.0.0",
     "node-sass": "^4.12.0",
